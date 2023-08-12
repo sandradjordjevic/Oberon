@@ -1,2 +1,2 @@
 # Import packages
-google-map=1.0.1
+google-map=2.0.0
