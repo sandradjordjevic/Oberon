@@ -1,6 +1,9 @@
   # Home page
   `Route /`
 
+  # Login
+  `Route /auth/login`
+
   # About us
   `Route /about-us`
 
