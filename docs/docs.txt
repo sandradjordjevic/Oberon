@@ -1,0 +1,11 @@
+  # Home page
+  `Route /`
+
+  # About us
+  `Route /about-us`
+
+  # Contact us
+  `Route /contact-us`
+
+  # How to find us
+  `Route /how-to-find-us`
